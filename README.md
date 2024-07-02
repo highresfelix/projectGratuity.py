@@ -1,1 +1,2 @@
-# projectTemplate.py
+# projectGratuity.py
+tip, tax & total
